@@ -100,15 +100,15 @@ for fdir in settings.betfair_dirs:
                         except:
                             item['available_to_back_2'] = ''
                         try:
-                            item['available_to_lay_0'] = bet['exchange']['availableTLayoBack'][0]['price']
+                            item['available_to_lay_0'] = bet['exchange']['availableToLay'][0]['price']
                         except:
                             item['available_to_lay_0'] = ''
                         try:
-                            item['available_to_lay_1'] = bet['exchange']['availableTLayoBack'][1]['price']
+                            item['available_to_lay_1'] = bet['exchange']['availableToLay'][1]['price']
                         except:
                             item['available_to_lay_1'] = ''
                         try:
-                            item['available_to_lay_2'] = bet['exchange']['availableTLayoBack'][2]['price']
+                            item['available_to_lay_2'] = bet['exchange']['availableToLay'][2]['price']
                         except:
                             item['available_to_lay_2'] = ''
                         try:
@@ -124,15 +124,15 @@ for fdir in settings.betfair_dirs:
                         except:
                             item['available_to_back_2_size'] = ''
                         try:
-                            item['available_to_lay_0_size'] = bet['exchange']['availableTLayoBack'][0]['size']
+                            item['available_to_lay_0_size'] = bet['exchange']['availableToLay'][0]['size']
                         except:
                             item['available_to_lay_0_size'] = ''
                         try:
-                            item['available_to_lay_1_size'] = bet['exchange']['availableTLayoBack'][1]['size']
+                            item['available_to_lay_1_size'] = bet['exchange']['availableToLay'][1]['size']
                         except:
                             item['available_to_lay_1_size'] = ''
                         try:
-                            item['available_to_lay_2_size'] = bet['exchange']['availableTLayoBack'][2]['size']
+                            item['available_to_lay_2_size'] = bet['exchange']['availableToLay'][2]['size']
                         except:
                             item['available_to_lay_2_size'] = ''
 
