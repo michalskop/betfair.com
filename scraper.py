@@ -26,7 +26,7 @@ for fdir in settings.betfair_dirs:
         dat = utils.scrape_subraces(roww['href'])
         for row in dat:
             date = datetime.datetime.utcnow().isoformat()
-            data = scrape_race(row['identifier'])
+            data = utils.scrape_race(row['identifier'])
             # load or create datapackage
             try:
                 # load datapackage
