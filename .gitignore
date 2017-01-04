@@ -1,0 +1,7 @@
+dev
+dev/*
+webcache
+__pycache__
+tempdata
+*~lock*
+settings.py
