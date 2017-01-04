@@ -2,13 +2,15 @@
 
 Scraper and data of betting odds from betsport.com with direct update to Github.
 
-Tested only on _politics_!
+Notes:
+- Tested only on _politics_!
+- _Odds_ is '_Last Price Traded_'
 
 Data are structured in tabular datapackage format (http://frictionlessdata.io/guides/tabular-data-package/).
 
 Odds for bets on **politics** are updated daily and accessible in this project.
 
-### Example - the data of odds for Czech presidential candidates 2017
+### Example - the data of odds for Czech presidential candidates 2017/2018
 http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmichalskop%2Fbetfair.com%2Fmaster%2Fdata%2F128255728%2Fdatapackage.json
 
 ### Custom installation
