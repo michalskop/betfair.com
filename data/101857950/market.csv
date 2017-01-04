@@ -1,3 +1,4 @@
 date,date_bet,bet_delay,bsp_reconciled,complete,inplay,number_of_winners,number_of_runners,number_of_active_runners,last_match_time,total_matched,total_available,cross_matching,runners_voidable,version,status
 2017-01-04T03:29:02.838667,2008-10-10 17:00:00,0,False,False,False,1,18,18,2016-12-06T22:57:52.000Z,777.6358548461089,0.0,False,False,1516552969,SUSPENDED
 2017-01-04T03:53:11.380784,2008-10-10 17:00:00,0,False,False,False,1,18,18,2016-12-06T22:57:52.000Z,777.6358548461089,0.0,False,False,1516552969,SUSPENDED
+2017-01-04T05:06:57.319028,2008-10-10 17:00:00,0,False,False,False,1,18,18,2016-12-06T22:57:52.000Z,777.9226447439204,0.0,False,False,1516552969,SUSPENDED
