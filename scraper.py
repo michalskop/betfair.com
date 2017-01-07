@@ -20,10 +20,10 @@ o = repo.remotes.origin
 git_ssh_cmd = 'ssh -i %s' % git_ssh_identity_file
 
 total_groups = 0
-for fdir in settings.betfair_dirs:
+for fdir in settings.betfair_dirsB:
     da = utils.scrape_races(fdir)
     for roww in da:
-        dat = utils.scrape_subraces(roww['href'])
+        dat = utils.scrape_subraces(roww['identifier'])
         for row in dat:
             date = datetime.datetime.utcnow().isoformat()
             data = utils.scrape_race(row['identifier'])
@@ -56,7 +56,7 @@ for fdir in settings.betfair_dirs:
                                 header.append(field['name'])
                     dw = csv.DictWriter(fout, header)
                     dw.writeheader()
-                repo.git.add(settings.git_dir + data_path + row['identifier'] + '/market.csv')
+                repo.git.add(settings.git_dir + data_path + row['identifier'] + '/odds.csv')
                 with open(settings.git_dir + data_path + row['identifier'] + '/market.csv', "w") as fout:
                     header = []
                     for resource in dp.resources:
