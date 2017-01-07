@@ -103,7 +103,7 @@
                     {
                         "name": "date_bet",
                         "type": "date",
-                        "format": "YYYY-mm-ddTHH:ii:ss",
+                        "format": "YYYY-mm-ddTHH:ii:ss.uuuZ",
                         "description": "Date of the bet/race"
                     },
                     {
