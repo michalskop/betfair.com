@@ -1,0 +1,4 @@
+date,title,odds,identifier,available_to_back_0,available_to_back_1,available_to_back_2,available_to_lay_0,available_to_lay_1,available_to_lay_2,available_to_back_0_size,available_to_back_1_size,available_to_back_2_size,available_to_lay_0_size,available_to_lay_1_size,available_to_lay_2_size
+2017-01-07T00:43:05.662862,Democrats,12.5,1171581,11.0,8.0,6.2,,,,15.051116666666665,15.332,11.51612903225806,,,
+2017-01-07T00:43:05.662862,Republicans,1.11,1171580,,,,1.09,1.1,1.15,,,,11.66,139.92,18.656
+2017-01-07T00:43:05.662862,Neither,1000.0,3168698,11.0,6.2,,,,,17.843116666666663,11.51612903225806,,,,

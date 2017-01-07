@@ -1,0 +1,2 @@
+date,date_bet,bet_delay,bsp_reconciled,complete,inplay,number_of_winners,number_of_runners,number_of_active_runners,last_match_time,total_matched,total_available,cross_matching,runners_voidable,version,status
+2017-01-07T00:43:07.194177,2017-02-02T12:00:00.000Z,0,False,False,False,1,2,2,2017-01-06T23:17:19.525Z,2498.1395620132876,6067.884828932291,False,False,1516984957,OPEN
