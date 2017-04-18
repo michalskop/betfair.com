@@ -1,0 +1,6 @@
+date,title,odds,identifier,available_to_back_0,available_to_back_1,available_to_back_2,available_to_lay_0,available_to_lay_1,available_to_lay_2,available_to_back_0_size,available_to_back_1_size,available_to_back_2_size,available_to_lay_0_size,available_to_lay_1_size,available_to_lay_2_size
+2017-04-18T22:03:21.185792,5.0 Percent or Lower,5.0,12895837,1.8,1.29,1.17,44.0,,,59.84,83.79,306.87,19.15,,
+2017-04-18T22:03:21.185792,5.01 - 10.0 Percent,1.5,12895838,1.8,1.39,1.25,22.0,,,29.92,47.84,28.72,26.33,,
+2017-04-18T22:03:21.185792,10.01 - 15.0 Percent,,12730731,3.0,1.5,1.4,8.0,22.0,,19.95,59.84,11.97,11.97,26.33,
+2017-04-18T22:03:21.185792,15.01 - 20.0 Percent,,12730703,5.0,1.6,1.5,22.0,,,11.97,59.84,23.94,26.33,,
+2017-04-18T22:03:21.185792,20.01 Percent or Higher,,12895836,1.75,1.6,1.46,95.0,,,65.82,23.94,40.99,4.79,,
