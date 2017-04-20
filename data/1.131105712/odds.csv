@@ -1,3 +1,5 @@
 date,title,odds,identifier,available_to_back_0,available_to_back_1,available_to_back_2,available_to_lay_0,available_to_lay_1,available_to_lay_2,available_to_back_0_size,available_to_back_1_size,available_to_back_2_size,available_to_lay_0_size,available_to_lay_1_size,available_to_lay_2_size
 2017-04-19T22:03:30.418381,Under 28.5 Seats,1.97,12901098,1.5,1.22,,4.8,21.0,,47.73,650.35,,14.32,17.18,
 2017-04-19T22:03:30.418381,Over 28.5 Seats,,12901099,1.26,1.05,,3.0,5.6,,54.29,343.67,,23.87,141.68,
+2017-04-20T10:03:27.433134,Under 28.5 Seats,2.5,12901098,1.7,1.51,1.5,2.6,2.7,3.0,31.0,649.64,47.68,23.84,23.84,36.95
+2017-04-20T10:03:27.433134,Over 28.5 Seats,1.66,12901099,1.62,1.58,1.5,2.44,2.98,3.0,38.26,40.74,73.9,22.57,329.18,23.84
