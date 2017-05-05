@@ -13,3 +13,4 @@ date,date_bet,bet_delay,bsp_reconciled,complete,inplay,number_of_winners,number_
 2017-05-03T22:12:01.692161,2017-06-08T06:00:00.000Z,0,False,False,False,1,5,5,,0.0,47.288,False,False,1634060921,OPEN
 2017-05-04T10:09:33.259849,2017-06-08T06:00:00.000Z,0,False,False,False,1,5,5,,0.0,47.192,False,False,1634060921,OPEN
 2017-05-04T22:10:14.304487,2017-06-08T06:00:53.000Z,0,False,False,False,1,5,5,,0.0,0.0,False,False,1639131095,OPEN
+2017-05-05T10:09:38.147576,2017-06-08T06:00:53.000Z,0,False,False,False,1,5,5,,0.0,47.208,False,False,1639131095,OPEN
