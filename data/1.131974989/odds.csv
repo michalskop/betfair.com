@@ -44,3 +44,6 @@ date,title,odds,identifier,available_to_back_0,available_to_back_1,available_to_
 2017-06-06T22:10:43.451838,Republican Majority,,13176535,,,,,,,,,,,,
 2017-06-06T22:10:43.451838,Democrat Majority,,13176549,,,,5.0,,,,,,14.88,,
 2017-06-06T22:10:43.451838,No Majority,,1111905,,,,,,,,,,,,
+2017-06-07T10:10:30.899816,Republican Majority,,13176535,1.25,,,,,,59.61,,,,,
+2017-06-07T10:10:30.899816,Democrat Majority,,13176549,4.0,,,5.0,,,10.01,,,14.9,,
+2017-06-07T10:10:30.899816,No Majority,,1111905,1.25,,,,,,59.61,,,,,
