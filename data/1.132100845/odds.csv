@@ -1,3 +1,5 @@
 date,title,odds,identifier,available_to_back_0,available_to_back_1,available_to_back_2,available_to_lay_0,available_to_lay_1,available_to_lay_2,available_to_back_0_size,available_to_back_1_size,available_to_back_2_size,available_to_lay_0_size,available_to_lay_1_size,available_to_lay_2_size
 2017-06-09T10:03:05.083601,Yes,,1108298,,,,100.0,,,,,,113.97,,
 2017-06-09T10:03:05.083601,No,,1108299,,,,,,,,,,,,
+2017-06-09T22:03:26.521501,Yes,,1108298,1.03,,,36.0,100.0,,500.0,,,14.31,122.84,
+2017-06-09T22:03:26.521501,No,,1108299,1.03,1.02,1.01,36.0,,,500.0,447.47,11383.13,14.31,,
